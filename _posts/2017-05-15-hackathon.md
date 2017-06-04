@@ -2,8 +2,8 @@
 layout: default
 title:  "Mini-Hackathon"
 date:   2017-05-15
-categories: test blogging
-tags: personal tech how-to
+categories: tech
+tags: [personal, tech, how-to]
 ---
 #### Posted by [Aspen Hollyer](http://www.aspenhollyer.com) on 15th May 2017
 

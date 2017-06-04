@@ -1,0 +1,23 @@
+---
+layout: default
+title: Tag
+---
+
+<h1>Tags:</h1>
+<div>
+{% for tag in site.tags %}
+  <div>
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <div id="#{{ tag_name | slugize }}"></div>
+
+    <strong>{{ tag_name }}</strong>
+    <a name="{{ tag_name | slugize }}"></a>
+    {% for post in site.tags[tag_name] %}
+    <article>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a><br>
+    </article>
+    {% endfor %}
+    <p></p>
+  </div>
+{% endfor %}
+</div>

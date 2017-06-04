@@ -2,8 +2,8 @@
 layout: default
 title:  "Hello World"
 date:   2017-05-01
-categories: test blogging
-tags: personal random
+categories: tech
+tags: [personal, random]
 ---
 #### Posted by [Aspen Hollyer](http://www.aspenhollyer.com) on 1st May 2017
 
@@ -38,3 +38,5 @@ Well. I guess that's it.
 Until next time.
 
 *- A*
+
+{% include footer.html %}
