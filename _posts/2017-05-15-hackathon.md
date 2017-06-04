@@ -151,7 +151,7 @@ There are all sorts of hackathons out there, ranging from casual college campus 
 - **What are your local resources?**
   - Local tech groups and meetups may want to get involved or even help organize.
 
-I guess that's it! Hopefully this advice is helpful to others who want to organize a small-scale hackathon. If you have any questions, please feel free to e-mail me at aspen.hollyer@gmail.com
+I guess that's it! Hopefully this advice is helpful to others who want to organize a small-scale hackathon. If you have any questions, please feel free to [contact me](http://aspenhollyer.com/contact/).
 
 Cheers,
 Aspen
