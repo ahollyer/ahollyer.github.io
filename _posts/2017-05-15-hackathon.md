@@ -48,9 +48,7 @@ I e-mailed several tech companies and local businesses, though I always tried fi
 - **Keep it simple.** I used the following platforms to spread the word about the Mini-Hackathon: a Facebook group, Meetup.com, and a local tech slack channel. Through these channels, around 35 people signed up over the course of less than two weeks. Depending on the size of event you want, you may be more or less selective in how you advertise it.
 - **Print some flyers.** When you speak to businesses, a flyer lends you some credibility. They may even post it in their business for extra advertising. Here's the one I made (for free using [Canva](https://canva.com)):
 
-<p align="center">
 ![MiniHack Flyer](/assets/img/mini-hack.jpg)
-</p>
 
 - **Ask for help in an open-ended way.** My bootcamp donated soda and energy drinks, and another coding school donated pizza and prizes. Also, a local grocery store gave us fresh fruit for breakfast. When my friends or I approached these people, told them about the event, and asked them if they could help in any way, the response was almost always: "We'd love to! What do you need?" This allows you to list a few options. The donations you get in this manner will probably exceed your expectations, and you'll get more than you would have initially asked for.
 - **Make it win-win.** Offer to let sponsors set up a table at your event. They may want to give you brochures, stickers, or other information to display at your event. At the very least, you should briefly thank each of your sponsors at the start and end of your event.
